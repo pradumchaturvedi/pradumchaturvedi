@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I am  professional working as an ADAS Vehicle Data Analyst . <br>I am seeking opportunities to enhance my professional skills, expand my capabilities, and deepen my knowledge in the field.</p>
+<p align="left">I am  professional working as an  Data Analyst . <br>I am seeking opportunities to enhance my professional skills, expand my capabilities, and deepen my knowledge in the field.</p>
 
 ###
 
