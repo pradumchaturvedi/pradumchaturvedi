@@ -46,8 +46,8 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>
 <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="50" /></a>  
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Matlab_Logo.png" alt="Matlab" height="50" /></a>  
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Microsoft_Excel_2013-2019_Logo.svg" alt="Excel" height="50" /></a>  
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1005px-Matlab_Logo.png" alt="Matlab" height="50" /></a>   
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/881px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" height="50" /></a> 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" height="50" /></a>  
