@@ -12,7 +12,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Leah](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CC2CF7&center=true&vCenter=true&width=506&height=38&lines=Data+Analyst+%7C%7C+Python+%26+MATLAB+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CC2CF7&center=true&vCenter=true&width=594&height=38&lines=Data+Analyst+%7C%7C+Python+%26+MATLAB+Tool+Developer)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/ndleah?label=Follow&style=social)](https://github.com/pradumchaturvedi/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-nduongthucanh-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:chaturvedipradum288@gmail.com)](mailto:chaturvedipradum288@gmail.com)
