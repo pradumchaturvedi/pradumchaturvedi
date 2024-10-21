@@ -26,17 +26,15 @@
 
 </div>
 
-**Fun facts:**
-
-👩‍🎓 Former Marketing guru turned Data Science wizard with a Business degree in hand.
-  
-✍️ Master of Data Science and Innovation (MDSI) graduate from the University of Technology Sydney, armed with supercharged data skills.
-  
-🤔 If you don't write your SQL queries in uppercase, I don't trust you.
-  
-📈 Madly passionate about Modern Data Stacks, Data Engineering, DataOps, and saving the day with top-notch data governance practices for enterprise data architectures. Let's optimize that data flow!
-
-
+<h3>Talking about Personal Stuffs:</h3>
+<ul>
+    <li>🔭 I’m currently working on [mention your current project];</li>
+    <li>🌱 I’m currently learning advanced topics on [topic you're studying];</li>
+    <li>💬 Ask me about anything tech-related, I love to help;</li>
+    <li>📝 I write regularly on <a href="[Your Medium URL]">[your blog/Medium/Dev.to]</a>;</li>
+    <li>📫 How to reach me: <a href="mailto:[your-email]">[your email]</a>;</li>
+    <li>📄 <a href="[Link to resume]">Resume</a>.</li>
+</ul>
 <br>
 
 <div align="center">
