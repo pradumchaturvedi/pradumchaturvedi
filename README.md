@@ -14,10 +14,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CC2CF7&center=true&vCenter=true&width=594&height=38&lines=Data+Analyst+%7C%7C+Python+%26+MATLAB+Tool+Developer)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/ndleah?label=Follow&style=social)](https://github.com/pradumchaturvedi/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-nduongthucanh-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:chaturvedipradum288@gmail.com)](mailto:chaturvedipradum288@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ndleah/)](https://www.linkedin.com/in/pradum-kumar-chaturvedi-b74967219/)
-[![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ndleah)](https:blank)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
+
+
 
 <br>
 
