@@ -33,7 +33,7 @@
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
     <li>🔭 I’m currently working on Python GUI Dev;</li>
-    <li>🌱 I’m currently learning advanced toLOPpics on PyQt5, PyQt6;</li>
+    <li>🌱 I’m currently learning advanced topics on PyQt5, PyQt6;</li>
     <li>💬 Ask me about anything tech-related, I love to help;</li>
     <li>📝 I write regularly on <a href="[Your Medium URL]">[your blog/Medium/Dev.to]</a>;</li>
     <li>📫 How to reach me: <a href="mailto:[your-email]">[your email]</a>;</li>
