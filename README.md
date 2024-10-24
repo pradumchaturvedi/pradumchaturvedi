@@ -35,7 +35,7 @@
     <li>🔭 I’m currently working on Python GUI Dev;</li>
     <li>🌱 I’m currently learning advanced topics on PyQt5, PyQt6;</li>
     <li>💬 Ask me about anything tech-related, I love to help;</li>
-    <li>📝 I write regularly on <a href="[Your Medium URL]">[your blog/Medium/Dev.to]</a>;</li>
+    <li>📝 I write regularly on <a href="[Your Medium URL]">[my work]</a>;</li>
     <li>📫 How to reach me: <a href="mailto:[your-email]">[your email]</a>;</li>
     <li>📄 <a href="[Link to resume]">Resume</a>.</li>
 </ul>
