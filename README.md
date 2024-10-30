@@ -1,7 +1,10 @@
 <div align="center">
 
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=blue&logo=github&label=VISITORS&color=blue"/>
-<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/ndleah?color=blueviolet&logo=github&label=FOLLOWERS"/>
+<!-- Visitor Badge with Custom Number -->
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=ndleah&style=flat-square&labelColor=blue&logo=github&label=VISITORS&color=blue&count=1.2k"/>
+
+<!-- Followers Badge with Custom Number -->
+<img alt="FOLLOWERS" src="https://img.shields.io/badge/FOLLOWERS-350-blueviolet?logo=github&style=flat-square"/>
 
 
 <h1><samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Pradum Kumar </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp> </h1>
